@@ -1,11 +1,6 @@
-// crsPrvdrs = courses providers
 var crsPrvdrs = ["Meta", "Google", "IBM"];
 crsPrvdrs.push("Harvard");
-// crsPrvdrs = crsPrvdrs.join(", ");
 
-// console.log(crsPrvdrs[0]);
-
-// console.log()
 function addCrs(newCrsName, newCrsDscrpt) {
   var crsName = [newCrsName, newCrsDscrpt];
   var txtChoose = [

@@ -6,7 +6,7 @@ function addCrs(newCrsName, newCrsDscrpt) {
   var txtChoose = [
     'You can choose any "',
     crsName[0],
-    '" course from the folowing courses:',
+    '" course from the following courses:',
   ];
   crsName = crsName.join(", ");
 
